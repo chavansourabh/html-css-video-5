@@ -23,7 +23,7 @@ function updateGallery(){
  timer = setTimeout(() => {
   x = x - 45
   updateGallery()
- }, 3000);
+ }, 4000);
 }
 
 updateGallery()
